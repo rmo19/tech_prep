@@ -2,6 +2,3 @@ hola
 esto
 es
 un ejemplo
-de modificar
-un archivo
-
